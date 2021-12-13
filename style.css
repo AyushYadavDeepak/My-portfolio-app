@@ -1,0 +1,100 @@
+body
+{
+    text-align: center;
+    }
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+input
+{
+    background: grey;
+}
+#aboutMe{
+    font-family: serif;
+    background: rgb(144,232,127);
+background: linear-gradient(90deg, rgba(144,232,127,0.7740138291644783) 34%, rgba(253,29,29,0.7740138291644783) 50%, rgba(252,176,69,1) 100%);
+
+}
+h3 {
+font-size: 40px;
+}
+#work{
+  background-color:black;
+    
+}
+.line {
+    height: 6px;
+    background-color:  #DE5D83;
+    width: 220px;
+    margin: 8px auto;   
+
+}
+h4{
+font-family: fantasy;
+font-size: 30px;
+color: aqua
+   
+}
+#Akasy{
+  width: 250px;
+  transition: transform .2s;
+  border: 10px solid #a8a5a5;
+  height:200px;
+  }
+#Akasy:hover{
+  transform: scale(1.1);
+}
+#ronaldo{
+   width: 250px;
+  transition: transform .2s;
+  border: 10px solid #a8a5a5;
+  height:200px;
+   
+}
+#ronaldo:hover{
+    transform: scale(1.1);
+}
+h6{
+ font-family: cursive;
+  font-size: 30px;
+  color:fuchsia;
+  text-shadow: 2px 2px #db3d7d;
+   
+}
+#MyInspiration{
+ background: -webkit-radial-gradient(#555, black);
+  background: -o-radial-gradient(#555, black);
+  background: -moz-radial-gradient(#555, black);
+  background: radial-gradient(#555, black);
+}
